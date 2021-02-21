@@ -2,6 +2,7 @@ import warnings
 import random
 from typing import Optional, List
 
+
 introduction = "This is"
 snippets = {"That lay in": " the house that Jack built\n",
             "That ate": " the malt\n",
