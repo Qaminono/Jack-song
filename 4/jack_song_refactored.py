@@ -39,6 +39,3 @@ def double_song():
 def random_song():
     warnings.warn("'random_song' is deprecated, use parametrized 'song' instead", DeprecationWarning)
     return song(True, False)
-
-
-print(song(True, True))
